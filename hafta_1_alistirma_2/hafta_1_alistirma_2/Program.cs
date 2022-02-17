@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace hafta_2_alistirma_2
+namespace hafta_1_alistirma_2
 {
     class Program
     {
